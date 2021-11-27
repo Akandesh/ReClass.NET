@@ -111,7 +111,7 @@ namespace ReClassNET.Forms
 			this.Controls.Add(this.bannerBox);
 			this.Name = "ClassSelectionForm";
 			this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
-			this.Text = "ReClass.NET - Class Selection";
+			this.Text = "LoliConCentral - Class Selection";
 			((System.ComponentModel.ISupportInitialize)(this.bannerBox)).EndInit();
 			this.ResumeLayout(false);
 			this.PerformLayout();

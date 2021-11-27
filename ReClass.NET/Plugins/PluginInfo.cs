@@ -11,8 +11,8 @@ namespace ReClassNET.Plugins
 {
 	internal class PluginInfo : IDisposable
 	{
-		public const string PluginName = "ReClass.NET Plugin";
-		public const string PluginNativeName = "ReClass.NET Native Plugin";
+		public const string PluginName = "LoliConCentral Plugin";
+		public const string PluginNativeName = "LoliConCentral Native Plugin";
 
 		public string FilePath { get; }
 

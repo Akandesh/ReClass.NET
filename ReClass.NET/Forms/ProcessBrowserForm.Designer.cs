@@ -227,7 +227,7 @@ namespace ReClassNET.Forms
 			this.bannerBox.Name = "bannerBox";
 			this.bannerBox.Size = new System.Drawing.Size(573, 48);
 			this.bannerBox.TabIndex = 6;
-			this.bannerBox.Text = "Select the process to which ReClass.NET is to be attached.";
+			this.bannerBox.Text = "Select the process to which LoliConCentral is to be attached.";
 			this.bannerBox.Title = "Attach to Process";
 			// 
 			// ProcessBrowserForm
@@ -247,7 +247,7 @@ namespace ReClassNET.Forms
 			this.Name = "ProcessBrowserForm";
 			this.ShowInTaskbar = false;
 			this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
-			this.Text = "ReClass.NET - Attach to Process";
+			this.Text = "LoliConCentral - Attach to Process";
 			((System.ComponentModel.ISupportInitialize)(this.processDataGridView)).EndInit();
 			this.filterGroupBox.ResumeLayout(false);
 			this.filterGroupBox.PerformLayout();

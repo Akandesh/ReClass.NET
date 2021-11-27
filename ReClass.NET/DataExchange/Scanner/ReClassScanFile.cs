@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Globalization;
 using System.IO;
@@ -14,7 +14,7 @@ namespace ReClassNET.DataExchange.Scanner
 {
 	public class ReClassScanFile : IScannerImport, IScannerExport
 	{
-		public const string FormatName = "ReClass.NET Scanner File";
+		public const string FormatName = "LoliConCentral Scanner File";
 		public const string FileExtension = ".rcnetscan";
 
 		private const string Version1 = "1";

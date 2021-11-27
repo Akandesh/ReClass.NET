@@ -171,7 +171,7 @@ namespace ReClassNET.Forms
 			this.Controls.Add(this.bannerBox);
 			this.MinimumSize = new System.Drawing.Size(396, 321);
 			this.Name = "EnumEditorForm";
-			this.Text = "ReClass.NET - Enum Editor";
+			this.Text = "LoliConCentral - Enum Editor";
 			((System.ComponentModel.ISupportInitialize)(this.bannerBox)).EndInit();
 			((System.ComponentModel.ISupportInitialize)(this.enumDataGridView)).EndInit();
 			this.ResumeLayout(false);

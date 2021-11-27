@@ -790,7 +790,7 @@ namespace ReClassNET.Forms
 			this.MinimumSize = new System.Drawing.Size(628, 622);
 			this.Name = "ScannerForm";
 			this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
-			this.Text = "ReClass.NET - Scanner";
+			this.Text = "LoliConCentral - Scanner";
 			this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.MemorySearchForm_FormClosing);
 			((System.ComponentModel.ISupportInitialize)(this.bannerBox)).EndInit();
 			this.filterGroupBox.ResumeLayout(false);

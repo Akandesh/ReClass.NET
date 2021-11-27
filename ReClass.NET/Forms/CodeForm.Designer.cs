@@ -66,7 +66,7 @@ namespace ReClassNET.Forms
 			this.MinimumSize = new System.Drawing.Size(350, 185);
 			this.Name = "CodeForm";
 			this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
-			this.Text = "ReClass.NET - Code Generator";
+			this.Text = "LoliConCentral - Code Generator";
 			((System.ComponentModel.ISupportInitialize)(this.bannerBox)).EndInit();
 			this.ResumeLayout(false);
 

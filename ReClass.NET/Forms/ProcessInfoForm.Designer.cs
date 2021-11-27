@@ -309,7 +309,7 @@ namespace ReClassNET.Forms
 			this.MinimumSize = new System.Drawing.Size(586, 320);
 			this.Name = "ProcessInfoForm";
 			this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
-			this.Text = "ReClass.NET - Process Informations";
+			this.Text = "LoliConCentral - Process Informations";
 			this.Load += new System.EventHandler(this.ProcessInfoForm_Load);
 			this.contextMenuStrip.ResumeLayout(false);
 			((System.ComponentModel.ISupportInitialize)(this.sectionsDataGridView)).EndInit();

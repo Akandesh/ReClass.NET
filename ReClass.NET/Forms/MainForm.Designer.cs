@@ -474,7 +474,7 @@ namespace ReClassNET.Forms
 			this.integerToolStripMenuItem5.Click += new System.EventHandler(this.addBytesToolStripMenuItem_Click);
 			// 
 			// integerToolStripMenuItem6
-			// 
+			//
 			this.integerToolStripMenuItem6.Image = global::ReClassNET.Properties.Resources.B16x16_Button_Add_Bytes_2048;
 			this.integerToolStripMenuItem6.Name = "integerToolStripMenuItem6";
 			this.integerToolStripMenuItem6.Size = new System.Drawing.Size(154, 22);
@@ -1380,7 +1380,7 @@ namespace ReClassNET.Forms
 			this.MainMenuStrip = this.mainMenuStrip;
 			this.MinimumSize = new System.Drawing.Size(200, 100);
 			this.Name = "MainForm";
-			this.Text = "ReClass.NET";
+			this.Text = "LoliConCentral";
 			this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.MainForm_FormClosing);
 			this.DragDrop += new System.Windows.Forms.DragEventHandler(this.MainForm_DragDrop);
 			this.DragEnter += new System.Windows.Forms.DragEventHandler(this.MainForm_DragEnter);

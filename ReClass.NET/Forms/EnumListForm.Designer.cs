@@ -124,7 +124,7 @@ namespace ReClassNET.Forms
 			this.Controls.Add(this.bannerBox);
 			this.Name = "EnumListForm";
 			this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
-			this.Text = "ReClass.NET - Enums";
+			this.Text = "LoliConCentral - Enums";
 			((System.ComponentModel.ISupportInitialize)(this.bannerBox)).EndInit();
 			this.ResumeLayout(false);
 			this.PerformLayout();
