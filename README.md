@@ -1,4 +1,6 @@
 # ReClass.NET
+Modified to bypass basic ReClass checks by certain games.
+
 This is a port of ReClass to the .NET platform with lots of additional features.
 
 ![](https://abload.de/img/main4hsbj.jpg)
